@@ -1,3 +1,3 @@
 FROM metasploitframework/metasploit-framework
 
-RUN msfconsole
+RUN /usr/src/metasploit-framework/msfconsole
